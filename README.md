@@ -27,7 +27,7 @@ D FLIPFLOP
 
 COUNTER
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/6facf100-9ba8-4896-a30a-23cc274f37f3)
 
 
   
@@ -183,7 +183,7 @@ endmodule
 
 **OUTPUT WAVEFORM:**
 
-![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/99e2a4f2-a70d-43a1-b078-9d536d83c1ee)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/7e2e43ad-d362-420d-9731-a657418a4214)
 
 
 ## VERILOG CODE:
@@ -218,7 +218,7 @@ endmodule
 ```
 **OUTPUT WAVEFORM:**
 
-![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/6daf5ecd-9fef-4b4e-82a0-7f09f4743a74)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/da95aafd-b0e6-4ca1-9e0b-70bbd3083e02)
 
 
 **RESULT:**
