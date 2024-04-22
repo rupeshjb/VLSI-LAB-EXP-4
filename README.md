@@ -183,7 +183,8 @@ endmodule
 
 **OUTPUT WAVEFORM:**
 
-![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/e1d56e4c-9c70-4d7e-aa14-9fea9ea6442e)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/c7d32766-147b-47be-9c11-847bb388b016)
+
 
 
 
