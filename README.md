@@ -122,16 +122,19 @@ endmodule
 
 ## OUTPUT WAVEFORM
  SR FLIPFLOP:
-![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/57990570-c2a8-4b8d-8e28-c2881953170e)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/d67c918e-1436-46fd-a770-5a0ba15f1860)
 
 JK FLIPFLOP:
-![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/a206c9b9-56ba-454f-941f-3f72408f6c7f)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/734000b9-6760-40f3-ab87-74ad84221bbc)
+
 
 T FLIPFLOP:
-![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/a3e798a0-640e-4c58-be35-f5b6e1ca755a)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/3bb29062-f124-4ef4-b29b-d4e1441fd7f0)
+
 
 D FLIPFLOP:
-![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/2d2e0f3b-1fe0-4c39-acfd-700bc106ee6f)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/71618202-0410-41e9-91b1-bc2ac52d9b3d)
+
 
 
 ## Counter:
