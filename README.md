@@ -183,7 +183,8 @@ endmodule
 
 **OUTPUT WAVEFORM:**
 
-![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/7e2e43ad-d362-420d-9731-a657418a4214)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/e1d56e4c-9c70-4d7e-aa14-9fea9ea6442e)
+
 
 
 ## VERILOG CODE:
