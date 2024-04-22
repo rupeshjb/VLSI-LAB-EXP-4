@@ -161,7 +161,7 @@ endmodule
 ```
 **OUTPUT WAVEFORM:**
 
-![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/55273a38-81bd-40f6-a287-d3574eefee9f)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-4/assets/119603360/928169ce-e00f-4ff6-b962-ad94098c6d46)
 
 ## Mod 10 Counter:
 ## VERILOG CODE:
